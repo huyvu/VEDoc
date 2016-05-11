@@ -10,8 +10,9 @@ Nội dung:
 
 .. toctree::
    :maxdepth: 2
-   
+
    home
+   apply_visa
 
 
 

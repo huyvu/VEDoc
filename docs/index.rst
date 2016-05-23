@@ -13,6 +13,13 @@ Nội dung:
 
    home
    apply_visa
+   payment_online
+   extra_services
+   visa_information
+   visa_fee
+   check_requirement
+   check_status
+   member
 
 
 
